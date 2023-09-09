@@ -1,7 +1,5 @@
 # AmadouCodeur
 
-![Image de profil](https://amadoucodeur.vercel.app/profile.png)
-
 ## Amadou Coulibaly
 
 Développeur Full Stack Web / Mobile
