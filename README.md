@@ -1,4 +1,4 @@
-# AmadouCodeur
+# Amadoucodeur
 
 ## Amadou Coulibaly
 
