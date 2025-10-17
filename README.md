@@ -18,7 +18,7 @@ Je suis Amadou Coulibaly, un développeur full-stack passionné par la création
 
 ### Contacts
 
-- [Site Web](https://amadoucodeur.vercel.app) (https://amadoucodeur.vercel.app)
+- [Site Web](https://amadoucoulibaly.com) (https://amadoucoulibaly.com)
 - [LinkedIn](https://www.linkedin.com/in/amadoucodeur/) (www.linkedin.com/in/amadoucodeur)
 - Email : amadoucodeur@gmail.com
-- Téléphone : +225 0500026690
+- Téléphone : +225 0705023269
